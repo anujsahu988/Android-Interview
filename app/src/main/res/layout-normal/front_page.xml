@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frontpage_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/middle"
+    android:gravity="center">
+
+
+    <Button
+        android:id="@+id/bsq"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:textSize="20sp"
+        android:background="@drawable/button_custom"
+        android:textColor="#ffffff"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/sq" />
+
+    <Button
+        android:id="@+id/btq"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/bsq"
+        android:textSize="20sp"
+        android:background="@drawable/button_custom"
+        android:textColor="#ffffff"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="42dp"
+        android:text="@string/tq" />
+
+    <Button
+        android:id="@+id/bexit"
+        android:layout_width="220dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/btq"
+        android:textSize="20sp"
+        android:background="@drawable/button_custom"
+        android:textColor="#ffffff"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="42dp"
+        android:text="@string/exit" />
+
+
+</RelativeLayout>

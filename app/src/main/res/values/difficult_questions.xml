@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="difficult_ques">
+        <item>How many minimum numbers of queues are needed to implement the priority queue?</item>
+        <item>When should you use binary search engine?</item>
+        <item>What is the difference between NULL and VOID?</item>
+    </string-array>
+</resources>

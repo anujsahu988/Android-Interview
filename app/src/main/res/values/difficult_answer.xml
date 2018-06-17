@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="difficult_ans">
+        <item>
+            Two queues.
+        </item>
+        <item>A binary search algorithm is used to search a list when the elements are already in order or sorted.</item>
+        <item>Null is actually a value, whereas Void is a data type identifier.</item>
+    </string-array>
+</resources>

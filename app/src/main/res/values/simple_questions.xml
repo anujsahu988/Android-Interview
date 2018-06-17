@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="simple_ques">
+
+        <item>What are Binary trees?</item>
+        <item>What is a Stack?</item>
+        <item>What is a Stack?</item>
+
+    </string-array>
+    
+</resources>

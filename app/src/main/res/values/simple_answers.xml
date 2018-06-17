@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_ans">
+        <item>A Binary Tree is a type of data structure that has two nodes: A left node and a right node. In programming, binary trees
+              are actually an extension of the linked list structures.</item>
+        <item>A stack is a data structure in which only the top element can be accessed.</item>
+        <item>A stack is a data structure in which only the top element can be accessed</item>
+    </string-array>
+</resources>
